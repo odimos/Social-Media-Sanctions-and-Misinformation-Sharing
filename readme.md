@@ -51,5 +51,6 @@ With Low-quality sharing as determined by eight professional fact-checkers.
 With Low-quality sharing as determined by crowdsourcing from 971 participants from the USA.
 ![lowquality1](FrequencyOfLowQuality2.png)
 
-## See the rest
+## See the rest of assignment and the approach
+- [Assignment Specification](differences_misinformation.ipynb)
 - [Solution Code](3170027.ipynb)
