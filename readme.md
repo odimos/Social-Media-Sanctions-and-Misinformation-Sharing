@@ -45,10 +45,10 @@ p value: 6.747278446709537e-108
 The small p value shows rejection of the null hypothesis, so there is an association between suspension and politics hashtag.
 
 ## Distributions of Relative Frequency of Low Quality
-With Low-quality sharing as determined by eight professional fact-checkers.
+### With Low-quality sharing as determined by eight professional fact-checkers.
 ![lowquality1](FrequencyOfLowQuality1.png)
 
-With Low-quality sharing as determined by crowdsourcing from 971 participants from the USA.
+### With Low-quality sharing as determined by crowdsourcing from 971 participants from the USA.
 ![lowquality1](FrequencyOfLowQuality2.png)
 
 ## See the rest of assignment and the approach
