@@ -3,8 +3,8 @@ Are social media sanctions politically biased or they are the result of differen
 We will follow the data and method Mohshen Moshel et al presented in [recent analysis in Nature](https://www.nature.com/articles/s41586-024-07942-8)
 
 <div>
-  <img src="Airbnb.png" width="400" style="margin-right:10px;">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="flag.webp" width="200">
+  <img src="giphy.gif" width="200" style="padding-bottom:50px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="trump.gif" width="200" >
 </div>
 
 <br><br>
