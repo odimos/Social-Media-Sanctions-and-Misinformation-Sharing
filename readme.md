@@ -1,6 +1,6 @@
 # Social Media Sanctions and Misinformation Sharing
-Are social media sanctions politically biased or they are the result of differences in misinformation sharing between people of different political beliefs?
-We will follow the data and method Mohshen Moshel et al presented in [recent analysis in Nature](https://www.nature.com/articles/s41586-024-07942-8)
+Are social media sanctions politically biased, or are they the result of differences in misinformation sharing between people of different political beliefs?
+We follow the data and methodology Mohsen Mosleh presented in [this recent analysis in Nature](https://www.nature.com/articles/s41586-024-07942-8)
 
 <div>
   <img src="giphy.gif" width="200" style="padding-bottom:50px">&nbsp;&nbsp;&nbsp;&nbsp;
