@@ -11,7 +11,7 @@ We follow the data and methodology Mohsen Mosleh presented in [this recent analy
 Applied Machine Learning, second assignment, AUEB 2024  
 
 - [Assignment Specification](differences_misinformation.ipynb)
-- [Solution Code](3170027.ipynb)
+- [Solution Code](solution.ipynb)
 
 ## Twitter Suspensions after the 2020 Election
 Accounts that shared `#Trump2020` during the election were about 4.4 times more likely to be subsequently suspended than the accounts that shared `#VoteBidenHarris2020`.
@@ -53,4 +53,4 @@ The small p value shows rejection of the null hypothesis, so there is an associa
 
 ## See the rest of assignment and the approach
 - [Assignment Specification](differences_misinformation.ipynb)
-- [Solution Code](3170027.ipynb)
+- [Solution Code](solution.ipynb)
